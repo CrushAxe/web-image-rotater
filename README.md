@@ -9,6 +9,7 @@ Version 0.9.1 - Images are now loaded as needed vs. when Object is created.
 Version 0.9.0 - Initial Release
 
 Example:
+```
 <img src="/img/foo/image1.jpg" width="460" height="230" id="slide" alt="Desc"/>
 <script type="text/javascript">
 <!--
@@ -16,3 +17,4 @@ Example:
 	imgCache.startRotation(8);
 //-->
 </script>
+```
